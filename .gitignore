@@ -52,3 +52,5 @@
 /src/teste.inbev.core.ioc/obj
 /src/teste.inbev.core.service/bin/Debug
 /src/teste.inbev.core.service/obj
+/src/teste.inbev.core.test/bin
+/src/teste.inbev.core.test/obj
